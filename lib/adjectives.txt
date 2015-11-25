@@ -1,0 +1,16 @@
+big
+small
+tiny
+huge
+fast
+slow
+confused
+hot
+cold
+frozen
+quick
+open
+closed
+confused
+fire
+ice

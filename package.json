@@ -1,0 +1,11 @@
+{
+  "name": "plausible-company-name",
+  "version": "1.0.0",
+  "description": "Generate a plausible company name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stephen Woods",
+  "license": "MIT"
+}
