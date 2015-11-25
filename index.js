@@ -1,7 +1,7 @@
 var fs = require('fs');
 
-var adjectives = fs.readFileSync('./lib/adjectives.txt', 'utf8');
-var nouns = fs.readFileSync('./lib/nouns.txt', 'utf8');
+var adjectives = fs.readFileSync(__dirname + '/lib/adjectives.txt', 'utf8');
+var nouns = fs.readFileSync(__dirname + './lib/nouns.txt', 'utf8');
 var adjectiveList = adjectives.split(/\n/);
 var nounList = nouns.split(/\n/);
 
