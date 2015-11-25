@@ -1,5 +1,9 @@
 # Plausible Company Name
 
+Install:
+
+npm install plausible-company-name
+
 Useage:
 
 ```

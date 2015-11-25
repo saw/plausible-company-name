@@ -1,6 +1,6 @@
 {
   "name": "plausible-company-name",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Generate a plausible company name",
   "main": "index.js",
   "repository": {

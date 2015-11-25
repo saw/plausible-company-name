@@ -11,5 +11,7 @@ function randomIndex(arr) {
 }
 
 module.exports = function() {
-	return randomIndex(adjectiveList) + randomIndex(nounList);
+	var outString = randomIndex(adjectiveList) + randomIndex(nounList);
+	outString = outString[0].toUpperCase() + outString.slice(1);
+	return outString;
 }
