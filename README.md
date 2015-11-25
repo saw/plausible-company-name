@@ -4,7 +4,7 @@ Install:
 
 npm install plausible-company-name
 
-Useage:
+Usage:
 
 ```
 var companyName = require('plausible-company-name');
