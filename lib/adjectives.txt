@@ -14,3 +14,7 @@ closed
 confused
 fire
 ice
+frosted
+cunch
+air
+zen
